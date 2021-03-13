@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishwajeetvb
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in competative programming
 - 🌱 I’m currently learning dart & flutter
 - 💞️ I’m looking to collaborate on flutter framework apps
 - 📫 How to reach me ...
